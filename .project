@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ClassDiagramIO1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/pr3.txt</name>
+			<type>1</type>
+			<locationURI>PARENT-3-ECLIPSE_HOME/eclipse-workspace/ClassDiagramIO1/pr3.txt</locationURI>
+		</link>
+		<link>
+			<name>src/com/kh/practice/file/view/pr3.txt</name>
+			<type>1</type>
+			<locationURI>WORKSPACE_LOC/ClassDiagramIO1/pr3.txt</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
